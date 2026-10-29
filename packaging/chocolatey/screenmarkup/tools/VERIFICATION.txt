@@ -1,0 +1,4 @@
+VERIFICATION
+Installer downloaded from the official RSW Digital GitHub release: https://github.com/rsw-digital/screen-markup/releases/download/v0.3.16/ScreenMarkupSetup.exe
+SHA256: 40D87BF63A53B723EF763B10FFC30D64FB7E240404B091CA79808CB5DFAE595E
+Authenticode signer: RSW Digital Ltd (Microsoft ID Verified CS EOC CA 03). Verify with Get-AuthenticodeSignature.

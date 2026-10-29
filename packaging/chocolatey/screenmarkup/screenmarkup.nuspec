@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>screenmarkup</id>
+    <version>0.3.16</version>
+    <title>Screen Markup (Trial)</title>
+    <authors>RSW Digital Ltd</authors>
+    <owners>RSW Digital Ltd</owners>
+    <packageSourceUrl>https://github.com/rsw-digital/screen-markup</packageSourceUrl>
+    <projectUrl>https://screenmarkup.com</projectUrl>
+    <iconUrl>https://screenmarkup.com/assets/icon-192.png</iconUrl>
+    <licenseUrl>https://screenmarkup.com/terms/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://screenmarkup.com/support/</docsUrl>
+    <tags>screenmarkup drawing draw-on-screen tablet touchscreen drawing-pad whiteboard teaching presentation trial commercial</tags>
+    <summary>Use your phone or tablet as a wireless drawing pad for your Windows PC screen.</summary>
+    <description>Draw on your phone or tablet and see it live on your Windows PC screen. Screen Markup turns any touchscreen into a wireless drawing pad for your PC, for teaching, presenting, streaming and video calls.
+
+**Commercial software:** free 7-day trial, then £10/year or £25 lifetime (plus VAT) from https://screenmarkup.com. Windows 10/11 (x64), main monitor.</description>
+    <releaseNotes>https://screenmarkup.com</releaseNotes>
+  </metadata>
+  <files><file src="tools\**" target="tools" /></files>
+</package>
