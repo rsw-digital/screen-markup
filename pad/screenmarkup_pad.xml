@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-written</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>RSW Digital Ltd</Company_Name>
+    <Address_1></Address_1><Address_2></Address_2><City_Town></City_Town><State_Province></State_Province><Zip_Postal_Code></Zip_Postal_Code>
+    <Country>United Kingdom</Country>
+    <Company_WebSite_URL>https://screenmarkup.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Ryan</Author_First_Name><Author_Last_Name>Wells</Author_Last_Name>
+      <Author_Email>info@rswdigital.com</Author_Email>
+      <Contact_First_Name>Ryan</Contact_First_Name><Contact_Last_Name>Wells</Contact_Last_Name>
+      <Contact_Email>info@rswdigital.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>info@rswdigital.com</Sales_Email><Support_Email>info@rswdigital.com</Support_Email><General_Email>info@rswdigital.com</General_Email>
+      <Sales_Phone></Sales_Phone><Support_Phone></Support_Phone><General_Phone></General_Phone><Fax_Phone></Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Screen Markup</Program_Name>
+    <Program_Version>0.3.16</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>29</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>13</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>GBP</Program_Cost_Other_Code>
+    <Program_Cost_Other>10</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win10 x64,Windows 11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>First public listing. Draw on your phone or tablet and see it live on your PC screen. Signed installer, silent install (/S) supported.</Program_Change_Info>
+    <Program_Specific_Category>Utilities</Program_Specific_Category>
+    <Program_Category_Class>Graphic Apps::Editors</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or 11 (64-bit); a phone or tablet with a modern web browser</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>7886272</File_Size_Bytes>
+      <File_Size_K>7701</File_Size_K>
+      <File_Size_MB>7.52</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>7</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info>7-day free trial, then GBP 10 per year or GBP 25 lifetime (plus VAT)</Expire_Other_Info>
+      <Expire_Month></Expire_Month><Expire_Day></Expire_Day><Expire_Year></Expire_Year>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>drawing pad, tablet as drawing pad, phone as drawing tablet, draw on screen, iPad drawing tablet for PC, Android tablet drawing pad, screen drawing, whiteboard, teaching, presenting, streaming</Keywords>
+      <Char_Desc_45>Phone and tablet drawing pad for your PC</Char_Desc_45>
+      <Char_Desc_80>Draw on your phone or tablet and see it live on your PC screen. No pen tablet.</Char_Desc_80>
+      <Char_Desc_250>Screen Markup turns your phone or tablet into a wireless drawing pad for your Windows PC. Draw with a finger or stylus and your strokes appear live over anything on your PC screen. Great for teaching, presenting, streaming and video calls.</Char_Desc_250>
+      <Char_Desc_450>Screen Markup turns any phone or tablet into a wireless drawing pad for your Windows PC. Open it on your iPad, Android tablet or phone, draw with your finger or a stylus, and your strokes appear instantly over whatever is on your PC screen: slides, a browser, a game or a video call. You see a live view of your PC on the tablet, so you always know where you are drawing. No pen tablet or extra hardware needed. 7-day free trial.</Char_Desc_450>
+      <Char_Desc_2000>Screen Markup turns any phone or tablet into a wireless drawing pad for your Windows PC. Draw on your phone or tablet and see it on your PC screen, live.
+
+Open Screen Markup on your iPad, Android tablet or phone, draw with your finger or a stylus, and your strokes appear instantly over whatever is on your PC screen: slides, a browser, a document, a game or a video call. A live view of your PC appears on the tablet, so you always know exactly where you are drawing.
+
+Features:
+- Use your phone or tablet as a drawing pad for your PC, no pen tablet needed
+- Live view of your PC screen on the phone or tablet, with smooth ink
+- Works over any network; pair in seconds
+- Click-through overlay, so you keep using your PC normally
+- Fade the drawing view; nothing is saved
+- Signed installer from RSW Digital Ltd, silent install supported
+
+Great for teachers, online tutors, presenters, streamers and anyone on video calls who wants to draw, circle and highlight on screen.
+
+7-day free trial, then GBP 10 per year or GBP 25 lifetime (plus VAT). Windows 10/11, main monitor.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://screenmarkup.com</Application_Info_URL>
+      <Application_Order_URL>https://screenmarkup.com</Application_Order_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/rsw-digital/screen-markup/main/pad/screenshot-hero.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/rsw-digital/screen-markup/main/pad/icon-256.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/rsw-digital/screen-markup/main/pad/screenmarkup_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/rsw-digital/screen-markup/releases/download/v0.3.16/ScreenMarkupSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://screenmarkup.com/download/ScreenMarkupSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Download sites may list and link to Screen Markup and redistribute the unmodified, signed installer. Do not bundle, wrap or repackage it.</Distribution_Permissions>
+    <EULA>See https://screenmarkup.com</EULA>
+  </Permissions>
+  <Affiliates><Affiliates_FORM>Y</Affiliates_FORM></Affiliates>
+  <ASP><ASP_FORM>N</ASP_FORM><ASP_Member>N</ASP_Member><ASP_Member_Number></ASP_Member_Number></ASP>
+</XML_DIZ_INFO>
